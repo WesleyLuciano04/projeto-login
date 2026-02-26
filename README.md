@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/placeholder-login.png" alt="Preview do Projeto Login" width="600"/>
-</p>
-
 ---
 
 ## 📖 Descrição
